@@ -1,0 +1,9 @@
+file_format: "1"
+id: 66keys
+name: 66Keys
+type: shield
+url: https://github.com/re-conn/
+requires: 
+  - pro_micro
+features:
+  - keys
