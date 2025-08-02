@@ -1,4 +1,5 @@
 name: zmk-keyboards-66keys
 build:
+  kconfig: Kconfig
   settings:
     board_root: .
